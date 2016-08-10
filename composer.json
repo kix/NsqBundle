@@ -1,5 +1,5 @@
 {
-    "name": "socloz/nsq-bundle",
+    "name": "kix/nsq-bundle",
     "description": "Message queuing bundle for Symfony2 based on nsqphp",
     "homepage": "",
     "keywords": [ "nsq", "nsqphp", "message", "queue", "requeue", "delay", "bundle" ],
@@ -9,6 +9,11 @@
             "name": "CloseToMe",
             "email": "technique@closetome.fr",
             "homepage": "http://www.socloz.fr"
+        },
+        {
+            "name": "Stepan Anchugov",
+            "email": "kix@kixlive.ru",
+            "homepage": "http://github.com/kix"
         }
     ],
     "minimum-stability": "dev",
